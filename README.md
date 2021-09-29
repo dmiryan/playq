@@ -1,2 +1,2 @@
 # playq
-playq2019-test
+playq2019-test-supertest
